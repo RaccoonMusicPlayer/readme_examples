@@ -1,21 +1,53 @@
-<a id="user-content-dear-pygui" class="anchor" aria-hidden="true" href="#dear-pygui">
+
+<h1 align="center">
+  <br>
+  <a href="https://github.com/hoffstadt/DearPyGui"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/newlogo.jpg" alt="Dear PyGui logo"></a>
+  <br>
+</h1>
+
+<h4 align="center">A fast and powerful GUI framework for Python built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a>.</h4>
+
+
+<p align="center">
+   <a href=""><img src="https://img.shields.io/pypi/pyversions/dearpygui" alt="Python versions">
+   <a href="https://pypi.org/project/dearpygui/"><img src="https://img.shields.io/pypi/v/dearpygui" alt="PYPI">
+   <a href="https://pepy.tech/project/dearpygui"><img src="https://pepy.tech/badge/dearpygui" alt="Downloads">
+</p>
+
  
-<div align="center">
-  <img src="https://github.com/hoffstadt/DearPyGui/blob/assets/newlogo.jpg?raw=true" alt="Dear PyGui">
-</div>
-
-</a>
-
-<h6 align="center">(This library is available under a free and permissive license however, if you are using Dear PyGui please consider becoming a <a href="https://github.com/hoffstadt/DearPyGui/wiki/Sponsors">Sponsor</a>)</h6>
-
-![Python Version](https://img.shields.io/pypi/pyversions/dearpygui)
-[![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/)
-[![Downloads](https://pepy.tech/badge/dearpygui)](https://pepy.tech/project/dearpygui)
-
 [![build status](https://github.com/hoffstadt/DearPyGui/workflows/Embedded%20Build/badge.svg?branch=master)](https://github.com/hoffstadt/DearPyGui/actions?workflow=Embedded%20Build)
 [![static-analysis](https://github.com/hoffstadt/DearPyGui/workflows/Static%20Analysis/badge.svg?branch=master)](https://github.com/hoffstadt/DearPyGui/actions?workflow=Static%20Analysis)
 [![Deployment](https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml/badge.svg?branch=master)](https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml)
 [![Documentation Status](https://readthedocs.org/projects/dearpygui/badge/?version=latest)](https://dearpygui.readthedocs.io/en/latest/?badge=latest)
+
+
+<p align="center">
+  <a href="https://badge.fury.io/js/electron-markdownify">
+    <img src="https://badge.fury.io/js/electron-markdownify.svg"
+         alt="Gitter">
+  </a>
+  <a href="https://gitter.im/amitmerchant1990/electron-markdownify"><img src="https://badges.gitter.im/amitmerchant1990/electron-markdownify.svg"></a>
+  <a href="https://saythanks.io/to/bullredeyes@gmail.com">
+      <img src="https://img.shields.io/badge/SayThanks.io-%E2%98%BC-1EAEDB.svg">
+  </a>
+  <a href="https://www.paypal.me/AmitMerchant">
+    <img src="https://img.shields.io/badge/$-donate-ff69b4.svg?maxAge=2592000&amp;style=flat">
+  </a>
+</p>
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
+
+![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+
+
+
 
 **Dear PyGui** is a **simple to use (but powerful) Python GUI framework**. _Dear PyGui_ is **NOT** a wrapping of **[Dear ImGui](https://github.com/ocornut/imgui)** in the normal sense. It is a library built with _Dear ImGui_.
 
