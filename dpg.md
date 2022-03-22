@@ -2,11 +2,12 @@
 <h1 align="center">
   <br>
   <a href="https://github.com/hoffstadt/DearPyGui"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/newlogo.jpg" alt="Dear PyGui logo"></a>
-  <br>
+  <br><br/>
 </h1>
 
 <h4 align="center">A fast and powerful GUI framework for Python built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a>.</h4>
 
+<h1></h1>
 
 <p align="center">
    <a href=""><img src="https://img.shields.io/pypi/pyversions/dearpygui" alt="Python versions">
@@ -15,16 +16,13 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Embedded%20Build"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Embedded%20Build/badge.svg?branch=master" alt="Python versions">
-   <a href="https://pypi.org/project/dearpygui/"><img src="https://img.shields.io/pypi/v/dearpygui" alt="PYPI">
-   <a href="https://pepy.tech/project/dearpygui"><img src="https://pepy.tech/badge/dearpygui" alt="Downloads">
+   <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Embedded%20Build"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Embedded%20Build/badge.svg?branch=master" alt="Embedded build">
+   <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Static%20Analysis"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Static%20Analysis/badge.svg?branch=master" alt="static-analysis">
+   <a href="https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml"><img src="https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml/badge.svg?branch=master" alt="Deployment">
+   <a href="https://dearpygui.readthedocs.io/en/latest/?badge=latest"><img src="https://readthedocs.org/projects/dearpygui/badge/?version=latest" alt="Documentation Status">
 </p>
- 
-[![build status](https://github.com/hoffstadt/DearPyGui/workflows/Embedded%20Build/badge.svg?branch=master)](https://github.com/hoffstadt/DearPyGui/actions?workflow=Embedded%20Build)
-[![static-analysis](https://github.com/hoffstadt/DearPyGui/workflows/Static%20Analysis/badge.svg?branch=master)](https://github.com/hoffstadt/DearPyGui/actions?workflow=Static%20Analysis)
-[![Deployment](https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml/badge.svg?branch=master)](https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml)
-[![Documentation Status](https://readthedocs.org/projects/dearpygui/badge/?version=latest)](https://dearpygui.readthedocs.io/en/latest/?badge=latest)
 
+     
 
 <p align="center">
   <a href="#key-features">Key Features</a> •
