@@ -33,6 +33,11 @@
   <a href="#license">License</a>
 </p>
 
+| [Installation](#installation) - [Usage](#usage) - [Resources](#resources) - [Support](#support) |
+:----------------------------------------------------------: |
+| [Features](#features) - [Sponsors](#sponsors) - [Credits](#credits) - [License](#license) - [Gallery](#gallery) |
+
+
 <h1></h1>
 
 ### Features
@@ -89,9 +94,6 @@ the following platforms:
 In the same manner Dear ImGui provides a simple way to create tools for game developers, _Dear PyGui_ provides a 
 simple way for python developers to **create quick and powerful GUIs for scripts**.
 
-| [Installation](#installation) - [Usage](#usage) - [Resources](#resources) - [Support](#support) |
-:----------------------------------------------------------: |
-| [Features](#features) - [Sponsors](#sponsors) - [Credits](#credits) - [License](#license) - [Gallery](#gallery) |
 
 ## Installation
 
