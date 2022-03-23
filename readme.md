@@ -42,33 +42,33 @@ Dear PyGui is an easy-to-use, dynamic, GPU-Accelerated, cross-platform graphical
 - MIT license
 - Fast, GPU-based rendering (written in C/C++)
 - Modern look with complete theme and style control
-- Programmatically control (nearly) everything at runtime
+- Dynamic interface where everything can be changed at runtime
 - Simple built-in Asynchronous function support
-- Built-in developer tools: logging, theme inspection, resource inspection, runtime metrics, documentation, demo
-- 70+ widgets with hundreds of widget combinations
+- Built-in developer tools (theme inspection, resource inspection, runtime metrics, documentation)
+- A great number of widgets, all of which can be combined
 - Cross-platform (Windows, Linux, MacOS)
-- High quality documentation and unparalleled support
+- High quality documentation and built-in demo
 
 Functionality
 
-    Menus
-    Variety of widgets, sliders, color pickers, etc.
-    Tables
-    Drawing
-    Fast and interactive plotting / charting
-    Node editor
-    Theming support
-    Callbacks and handlers
+- Menus
+- Variety of controls, sliders, color pickers, etc.
+- Tables
+- Drawing
+- Fast and interactive plotting / charting
+- Node editor
+- Theming support
+- Callbacks and handlers
 
 Target use
 
-    Tool building and quick prototyping
-    Science and research applications
-    Engineering
-    Graphics
-    Data science
-    Simple games
-  
+- Tool building and quick prototyping
+- Science and research applications
+- Engineering
+- Graphics
+- Data science
+- Simple games
+ 
 </p>
      
 
