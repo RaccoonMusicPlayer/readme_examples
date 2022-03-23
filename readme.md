@@ -179,10 +179,8 @@ If you enjoy _Dear PyGui_ please consider becoming a [sponsor](https://github.co
 
 <a href="https://www.buymeacoffee.com/DearPyGui"><img src="https://img.buymeacoffee.com/button-api/?text=Buy us a coffee&emoji=&slug=DearPyGui&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
-### Tech talk about Dear PyGui and Dear imgui
-Dear PyGui is fundamentally different than other Python GUI frameworks. Under the hood, _Dear PyGui_ 
-uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. Dear PyGui is currently supported on
-the following platforms.
+### Tech talk
+Dear PyGui is fundamentally different than other Python GUI frameworks. Under the hood, Dear PyGui uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. Dear PyGui is currently supported on the following platforms.
 
 | Platform | Graphics API | Newest Version |
 |----------|---------------|----------------|
@@ -205,7 +203,7 @@ Developed by [Jonathan Hoffstadt](https://github.com/hoffstadt), [Preston Cothre
 
 ## License
 
-_Dear PyGui_ is licensed under the [MIT License](https://github.com/hoffstadt/DearPyGui/blob/master/LICENSE).
+Dear PyGui is licensed under the [MIT License](https://github.com/hoffstadt/DearPyGui/blob/master/LICENSE).
  
 ## Gallery
  ![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/3d.png)
