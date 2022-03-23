@@ -39,19 +39,19 @@
 
 <h1></h1>
 
-### Features
-<p>     
+### Features  
 - Modern look with complete theme and style control
-- Dynamic interface where everything can be changed at runtime
-- GPU-based rendering and written in C/C++
-- Simple built-in Asynchronous function support
+- Dynamic interfaces as any widget can be changed at runtime
+- Great performance due to GPU-based rendering and efficient C/C++ code
+- Stable operation with asynchronous function support
 - Built-in developer tools (theme inspection, resource inspection, runtime metrics, documentation)
-- A great number of widgets, all of which can be combined
+- Numerous widgets that can be combined in endless ways
 - Cross-platform (Windows, Linux, MacOS)
-- High quality documentation and built-in demo
+- High quality documentation
+- Built-in demo
 - MIT license
 
-Functionality
+### Functionality
 
 - Menus
 - Variety of controls, sliders, color pickers, etc.
@@ -61,27 +61,8 @@ Functionality
 - Node editor
 - Theming support
 - Callbacks and handlers
-  
-</p>
      
-
-
 <BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true)
-
-**Dear PyGui is fundamentally different than other Python GUI frameworks**. Under the hood, _Dear PyGui_ 
-uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. _Dear PyGui_ is currently supported on
-the following platforms:
-
-| Platform | Graphics API | Newest Version |
-|----------|---------------|----------------|
-| **Windows 10** | _DirectX 11_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
-| **macOS** | _Metal_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
-| **Linux** | _OpenGL 3_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
-| **Raspberry Pi 4** | _OpenGL ES_ | [![PYPI](https://img.shields.io/badge/pypi-v1.2-blue)](https://img.shields.io/badge/pypi-v1.2-blue) |
-
-In the same manner Dear ImGui provides a simple way to create tools for game developers, _Dear PyGui_ provides a 
-simple way for python developers to **create quick and powerful GUIs for scripts**.
-
 
 ## Installation
 
@@ -196,6 +177,20 @@ If you enjoy _Dear PyGui_ please consider becoming a [sponsor](https://github.co
 
 <a href="https://www.buymeacoffee.com/DearPyGui"><img src="https://img.buymeacoffee.com/button-api/?text=Buy us a coffee&emoji=&slug=DearPyGui&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
+  ### Tech talk about Dear PyGui and Dear imgui
+Dear PyGui is fundamentally different than other Python GUI frameworks. Under the hood, _Dear PyGui_ 
+uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. Dear PyGui is currently supported on
+the following platforms.
+
+| Platform | Graphics API | Newest Version |
+|----------|---------------|----------------|
+| **Windows 10** | _DirectX 11_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
+| **macOS** | _Metal_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
+| **Linux** | _OpenGL 3_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
+| **Raspberry Pi 4** | _OpenGL ES_ | [![PYPI](https://img.shields.io/badge/pypi-v1.2-blue)](https://img.shields.io/badge/pypi-v1.2-blue) |
+
+In the same manner Dear ImGui provides a simple way to create tools for game developers, Dear PyGui provides a simple way for python developers to create quick and powerful GUIs for scripts.
+  
  ## Credits
 
 Developed by [Jonathan Hoffstadt](https://github.com/hoffstadt), [Preston Cothren](https://github.com/Pcothren), and every direct or indirect contributor.
