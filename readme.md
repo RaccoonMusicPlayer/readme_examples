@@ -39,6 +39,8 @@
 
 <h1></h1>
 
+<BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true)
+  
 ### Features  
 - Modern look with complete theme and style control
 - Dynamic interfaces as any widget can be changed at runtime
@@ -61,8 +63,7 @@
 - Node editor
 - Theming support
 - Callbacks and handlers
-     
-<BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true)
+    
 
 ## Installation
 
