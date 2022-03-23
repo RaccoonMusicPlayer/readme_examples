@@ -22,6 +22,20 @@
    <a href="https://dearpygui.readthedocs.io/en/latest/?badge=latest"><img src="https://readthedocs.org/projects/dearpygui/badge/?version=latest" alt="Documentation Status"></a>
 </p>
 
+<h1></h1>
+
+<p align="center">
+  <a href="#key-features">Key Features</a> •
+  <a href="#how-to-use">How To Use</a> •
+  <a href="#download">Download</a> •
+  <a href="#credits">Credits</a> •
+  <a href="#related">Related</a> •
+  <a href="#license">License</a>
+</p>
+
+<h1></h1>
+
+## Key features
 <p>     
 Dear PyGui is an easy-to-use, dynamic, GPU-Accelerated, cross-platform graphical user interface toolkit(GUI) for Python. It is “built with” Dear ImGui. Features include traditional GUI elements such as buttons, radio buttons, menus and various methods to create a functional layout. Additionally, DPG has an incredible assortment of dynamic plots, tables, drawings, debugger, and multiple resource viewers. DPG is well suited for creating simple user interfaces as well as developing complex and demanding graphical interfaces. DPG offers a solid framework for developing scientific, engineering, gaming, data science and other applications that require fast and interactive interfaces.
   
@@ -59,14 +73,7 @@ Target use
   
 </p>
      
-<p align="center">
-  <a href="#key-features">Key Features</a> •
-  <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
-  <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
-  <a href="#license">License</a>
-</p>
+
 
 <BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true)
 
