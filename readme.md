@@ -26,33 +26,30 @@
 
 <p align="center">
   <a href="#features">Features</a> •
+  <a href="#gallery">Gallery</a> •
+  <a href="#installation">Installation</a> •
   <a href="#how-to-use">How To Use</a> •
-  <a href="#download">Download</a> •
+  <a href="#resources">Resources</a>
+  <a href="#support">Support</a> •
+  <a href="#sponsors">Sponsors</a> •
+  <a href="#features">Features</a> •
   <a href="#credits">Credits</a> •
-  <a href="#related">Related</a> •
   <a href="#license">License</a>
 </p>
-
-| [Installation](#installation) - [Usage](#usage) - [Resources](#resources) - [Support](#support) |
-:----------------------------------------------------------: |
-| [Features](#features) - [Sponsors](#sponsors) - [Credits](#credits) - [License](#license) - [Gallery](#gallery) |
-
 
 <h1></h1>
 
 ### Features
 <p>     
-Dear PyGui is an easy-to-use, dynamic, GPU-Accelerated, cross-platform graphical user interface toolkit(GUI) for Python. It is “built with” Dear ImGui. Features include traditional GUI elements such as buttons, radio buttons, menus and various methods to create a functional layout. Additionally, DPG has an incredible assortment of dynamic plots, tables, drawings, debugger, and multiple resource viewers. DPG is well suited for creating simple user interfaces as well as developing complex and demanding graphical interfaces. DPG offers a solid framework for developing scientific, engineering, gaming, data science and other applications that require fast and interactive interfaces.
-  
-- MIT license
-- Fast, GPU-based rendering (written in C/C++)
 - Modern look with complete theme and style control
 - Dynamic interface where everything can be changed at runtime
+- GPU-based rendering and written in C/C++
 - Simple built-in Asynchronous function support
 - Built-in developer tools (theme inspection, resource inspection, runtime metrics, documentation)
 - A great number of widgets, all of which can be combined
 - Cross-platform (Windows, Linux, MacOS)
 - High quality documentation and built-in demo
+- MIT license
 
 Functionality
 
@@ -64,16 +61,7 @@ Functionality
 - Node editor
 - Theming support
 - Callbacks and handlers
-
-Target use
-
-- Tool building and quick prototyping
-- Science and research applications
-- Engineering
-- Graphics
-- Data science
-- Simple games
- 
+  
 </p>
      
 
@@ -132,7 +120,7 @@ dpg.start_dearpygui()
 dpg.destroy_context()
 ```
 
-## Usage
+## How to use?
  
 Using _Dear PyGui_ is as simple as creating a python script like the one below:
 
