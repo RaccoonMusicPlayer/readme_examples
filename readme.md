@@ -25,7 +25,7 @@
 <h1></h1>
 
 <p align="center">
-  <a href="#key-features">Key Features</a> •
+  <a href="#features">Features</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#download">Download</a> •
   <a href="#credits">Credits</a> •
@@ -35,21 +35,19 @@
 
 <h1></h1>
 
-## Key features
+### Features
 <p>     
 Dear PyGui is an easy-to-use, dynamic, GPU-Accelerated, cross-platform graphical user interface toolkit(GUI) for Python. It is “built with” Dear ImGui. Features include traditional GUI elements such as buttons, radio buttons, menus and various methods to create a functional layout. Additionally, DPG has an incredible assortment of dynamic plots, tables, drawings, debugger, and multiple resource viewers. DPG is well suited for creating simple user interfaces as well as developing complex and demanding graphical interfaces. DPG offers a solid framework for developing scientific, engineering, gaming, data science and other applications that require fast and interactive interfaces.
   
- Features
-
-    MIT license
-    Fast, GPU-based rendering (written in C/C++)
-    Modern look with complete theme and style control
-    Programmatically control (nearly) everything at runtime
-    Simple built-in Asynchronous function support
-    Built-in developer tools: logging, theme inspection, resource inspection, runtime metrics, documentation, demo
-    70+ widgets with hundreds of widget combinations
-    Cross-platform (Windows, Linux, MacOS)
-    High quality documentation and unparalleled support
+- MIT license
+- Fast, GPU-based rendering (written in C/C++)
+- Modern look with complete theme and style control
+- Programmatically control (nearly) everything at runtime
+- Simple built-in Asynchronous function support
+- Built-in developer tools: logging, theme inspection, resource inspection, runtime metrics, documentation, demo
+- 70+ widgets with hundreds of widget combinations
+- Cross-platform (Windows, Linux, MacOS)
+- High quality documentation and unparalleled support
 
 Functionality
 
