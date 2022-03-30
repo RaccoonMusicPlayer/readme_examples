@@ -56,9 +56,9 @@
 - Built-in demo
 - MIT license
 
-| Modern look  	|   	|   	|   	|   	|
+| • Modern look  	|   	|   	|   	|   	|
 |---	|---	|---	|---	|---	|
-| Dynamic Interface  	|   	|   	|   	|   	|
+| • Dynamic Interface  	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
  
