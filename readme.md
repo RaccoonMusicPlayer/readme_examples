@@ -61,6 +61,16 @@
 | Dynamic Interface  	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
 |   	|   	|   	|   	|   	|
+ 
+  
+
+<table>
+  <tr>
+    <td class="tg-0pky">left</td>
+    <td class="tg-0pky">right</td>
+  </tr>
+</table>
+  
   
 ### Functionality
 
