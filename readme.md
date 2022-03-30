@@ -31,6 +31,7 @@
   <a href="#installation">Installation</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#resources">Resources</a> •
+  <br/>
   <a href="#support">Support</a> •
   <a href="#sponsors">Sponsors</a> •
   <a href="#features">Features</a> •
@@ -44,8 +45,8 @@
 <BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true)
   
 ### Features  
-- **Modern look** -- complete theme and style control
-- **Dynamic interfaces** -- any widget can be changed at runtime
+- **Modern look** — complete theme and style control
+- **Dynamic interfaces** — any widget can be changed at runtime
 - Great performance due to GPU-based rendering and efficient C/C++ code
 - Stable operation with asynchronous function support
 - Built-in developer tools (theme inspection, resource inspection, runtime metrics, documentation)
