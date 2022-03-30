@@ -56,6 +56,12 @@
 - Built-in demo
 - MIT license
 
+| Modern look  	|   	|   	|   	|   	|
+|---	|---	|---	|---	|---	|
+| Dynamic Interface  	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+|   	|   	|   	|   	|   	|
+  
 ### Functionality
 
 - Menus
