@@ -50,9 +50,7 @@
 - Great performance due to GPU-based rendering and efficient C/C++ code
 - Stable operation with asynchronous function support
 - Built-in developer tools (theme inspection, resource inspection, runtime metrics, documentation)
-- Numerous widgets that can be combined in endless ways
 - Cross-platform (Windows, Linux, MacOS)
-- High quality documentation
 - Built-in demo
 - MIT license
 
@@ -131,7 +129,8 @@ Ensure you have at least Python 3.7 64bit.
  
  [![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4)
 [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
- 
+
+- High quality documentation
 - [Contributor Documentation](https://github.com/hoffstadt/DearPyGui/wiki)
 - [User Documentation](https://dearpygui.readthedocs.io/en/latest/index.html) comprehensive documentation, tutorials, and examples.
 - [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4) major future features and changes.
