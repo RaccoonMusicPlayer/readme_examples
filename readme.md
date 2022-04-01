@@ -67,10 +67,11 @@
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
 
+  
 <table>
   <tr>
-    <td class="tg-0pky">left</td>
-    <td class="tg-0pky">right</td>
+    <td>left</td>
+    <td>right</td>
   </tr>
 </table>
  
