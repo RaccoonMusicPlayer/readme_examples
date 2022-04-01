@@ -68,7 +68,6 @@
 - Real-time plotting
 - Node editor
   
-
 ## Installation
 
 Ensure you have at least Python 3.7 64bit.
@@ -135,8 +134,7 @@ dpg.destroy_context()
 Result:
 <BR>![BasicUsageExample](https://github.com/hoffstadt/DearPyGui/blob/assets/BasicUsageExample1.PNG?raw=true)
 
-  
-  <table>
+<table>
   <tr>
     <td>left</td>
     <td>right</td>
