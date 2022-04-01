@@ -45,14 +45,13 @@
 <BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true)
   
 ### Features  
-- **Modern look** — complete theme and style control
-- **Dynamic interfaces** — any widget can be changed at runtime
-- Great performance due to GPU-based rendering and efficient C/C++ code
-- Stable operation with asynchronous function support
-- Built-in developer tools (theme inspection, resource inspection, runtime metrics, documentation)
-- Cross-platform (Windows, Linux, MacOS)
-- Built-in demo
-- MIT license
+- **Modern look** — Complete theme and style control
+- **Great performance** —  GPU-based rendering and efficient C/C++ code
+- **Stable operation** —  Asynchronous function support
+- **Built-in developer tools** — Theme inspection, resource inspection, runtime metrics, documentation
+- **Cross-platform** — Windows, Linux, MacOS
+- **Built-in demo**
+- **MIT license**
 
 | • Modern look  	|   	|   	|   	|   	|
 |---	|---	|---	|---	|---	|
