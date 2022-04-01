@@ -62,9 +62,9 @@
 - Int/float/scientific input widgets and sliders
 - Checkboxes, droplists, buttons
 - Progress bars, loading indicators
-- Drag and drop
+- Drag & drop
 - Tables
-- Drawing, textures, images
+- Canvas with layers for drawing, textures, images
 - Real-time plotting
 - Node editor
   
