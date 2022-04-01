@@ -58,7 +58,8 @@
 
 - Menus, tabs, windows
 - Text widgets, sliders, color pickers
-- Checkboxes, droplists, ...
+- Checkboxes, droplists, buttons
+- Progress bars, 
 - Tables
 - Drawing and textures
 - Real-time plotting
