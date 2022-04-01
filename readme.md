@@ -55,13 +55,16 @@
 
   
 ### Functionality
-
-- Menus, tabs, windows
-- Text widgets, sliders, color pickers
+- Menus, tabs, windows, tree nodes
+- Text widgets, input boxes
+- Comboboxes, listboxes 
+- Sliders, color pickers
+- Int/float/scientific input widgets and sliders
 - Checkboxes, droplists, buttons
-- Progress bars, 
+- Progress bars, loading indicators
+- Drag and drop
 - Tables
-- Drawing and textures
+- Drawing, textures, images
 - Real-time plotting
 - Node editor
   
