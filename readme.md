@@ -79,9 +79,8 @@ Ensure you have at least Python 3.7 64bit.
  
 ## How to use?
  
-Using _Dear PyGui_ is as simple as creating a python script like the one below:
+Using _Dear PyGui_ is as simple as creating a python script like the one below.
 
-Code:
 ```Python
 import dearpygui.dearpygui as dpg
 
