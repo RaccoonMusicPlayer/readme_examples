@@ -81,6 +81,8 @@ Ensure you have at least Python 3.7 64bit.
  
 Using _Dear PyGui_ is as simple as creating a python script like the one below.
 
+<img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_window.png" alt="Example window">
+  
 ```Python
 import dearpygui.dearpygui as dpg
 
