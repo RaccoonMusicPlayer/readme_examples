@@ -59,7 +59,7 @@
 - Text widgets, input boxes
 - Comboboxes, listboxes 
 - Sliders, color pickers
-- Int/float/scientific input widgets and sliders
+- Int, float & scientific input widgets and sliders
 - Checkboxes, droplists, buttons
 - Progress bars, loading indicators
 - Drag & drop
