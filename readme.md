@@ -48,9 +48,9 @@
 - **Modern look** — Complete theme and style control
 - **Great performance** —  GPU-based rendering and efficient C/C++ code
 - **Stable operation** —  Asynchronous function support
-- **Built-in developer tools** — Theme inspection, resource inspection, runtime metrics, documentation
+- **Built-in developer tools** — Theme inspection, resource inspection, runtime metrics
 - **Cross-platform** — Windows, Linux, MacOS
-- **Built-in demo**
+- **Built-in demo and documentation**
 - **MIT license**
 
 | • Modern look  	|   	|   	|   	|   	|
