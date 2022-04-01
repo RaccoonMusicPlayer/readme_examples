@@ -58,8 +58,8 @@
 - Menus, tabs, windows, tree nodes
 - Text widgets, input boxes
 - Comboboxes, listboxes 
-- Sliders, color pickers
 - Int, float & scientific input widgets and sliders
+- Date & color pickers
 - Checkboxes, droplists, buttons
 - Progress bars, loading indicators
 - Drag & drop
@@ -79,16 +79,14 @@ Ensure you have at least Python 3.7 64bit.
  
 
 ## Resources
- 
- [![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4)
-[![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
 
 - [User Documentation](https://dearpygui.readthedocs.io/en/latest/index.html) comprehensive documentation, tutorials, and examples.
 - [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4) major future features and changes.
 - [FAQ](https://github.com/hoffstadt/DearPyGui/discussions/categories/frequently-asked-questions-faq)
 - [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22) all proposed new features.
 - [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22) current bugs and issues.
-  
+
+## Developer tools
 - Internal Documentation: Run the `show_documentation` command from within the library to view a reference guide. 
 - Complete Demo: You can also view a mostly complete showcase of _Dear PyGui_ by running:
 ```python
@@ -133,13 +131,6 @@ dpg.destroy_context()
 ```
 Result:
 <BR>![BasicUsageExample](https://github.com/hoffstadt/DearPyGui/blob/assets/BasicUsageExample1.PNG?raw=true)
-
-<table>
-  <tr>
-    <td>left</td>
-    <td>right</td>
-  </tr>
-</table>
  
 <table>
   <tr>
@@ -202,8 +193,9 @@ _Dear PyGui_ includes several tools to help developers with _DearPyGui_ app deve
 
 If you are having issues or want to help, here are some places you can go:
 - [Github Discussions](https://github.com/hoffstadt/DearPyGui/discussions/)
-- [Discord Forum](https://discord.gg/tyE7Gu4)
-- [Reddit](https://www.reddit.com/r/DearPyGui/)
+- [Discord Forum](https://discord.gg/tyE7Gu4) | [![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4)
+- [Reddit](https://www.reddit.com/r/DearPyGui/) | [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
+
 
 ## Sponsors
 
