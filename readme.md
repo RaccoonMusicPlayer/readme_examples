@@ -90,14 +90,13 @@ dpg.destroy_context()
 ### Functionality
 
 - Menus, tabs, windows
-- Text widgets, sliders, color pickers, etc.
+- Text widgets, sliders, color pickers
+- Checkboxes, droplists, ...
 - Tables
-- Drawing
+- Drawing and textures
 - Real-time plotting
 - Node editor
-- Theming support
-- Callbacks and handlers
-    
+  
 
 ## Installation
 
