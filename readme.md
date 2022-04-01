@@ -53,20 +53,6 @@
 - **Built-in demo and documentation**
 - **MIT license**
 
-| • Modern look  	|   	|   	|   	|   	|
-|---	|---	|---	|---	|---	|
-| • Dynamic Interface  	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
-|   	|   	|   	|   	|   	|
- 
-
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
-
-  
 <table>
   <tr>
     <td>left</td>
@@ -101,15 +87,13 @@ dpg.destroy_context()
 </table>
 
   
-  
-  
 ### Functionality
 
-- Menus
-- Variety of controls, sliders, color pickers, etc.
+- Menus, tabs, windows
+- Text widgets, sliders, color pickers, etc.
 - Tables
 - Drawing
-- Fast and interactive plotting / charting
+- Real-time plotting
 - Node editor
 - Theming support
 - Callbacks and handlers
