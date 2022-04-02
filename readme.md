@@ -112,13 +112,15 @@ dpg.destroy_context()
 ```
                                                                                            
 ## Developer tools
+- View a [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of nearly all of Dear PyGui's functionality by adding a [single line](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code and inspect the relevant code.
+  
+  <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
+  
 - The documentation to Dear PyGui is built into the library and can be called with the `show_documentation` command to look up information on the API. 
 
   <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a> 
   
-- View a [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of nearly all of Dear PyGui's functionality and inspect the code for each part of the demo by adding a [single line](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code.
-  
-  <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
+
 
 - Theme inspection, resource inspection, runtime metrics
   
