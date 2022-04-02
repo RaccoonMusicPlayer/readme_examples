@@ -81,9 +81,7 @@ Ensure you have at least Python 3.7 64bit.
  
 Using Dear PyGui is as simple as creating a python script.
   
-<p align="center">
-  <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg">
-</p>
+<img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg">
   
 <table>
   <tr>
