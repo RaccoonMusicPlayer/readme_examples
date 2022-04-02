@@ -79,50 +79,38 @@ Ensure you have at least Python 3.7 64bit.
  
 ## How to use?
  
-Using Dear PyGui is as simple as creating a python script like the one below.
-  
-<pre class="hljs" style="display: block; overflow-x: auto; background: rgb(0, 0, 0); color: rgb(135, 135, 248);">
+Using Dear PyGui is as simple as creating a python script.
 
-<span class="hljs-keyword" style="color: rgb(226, 137, 100);">import</span> dearpygui.dearpygui <span  style="color: rgb(226, 137, 100);">as</span> dpg
-<span class="hljs-keyword" style="color: rgb(226, 137, 100);">from</span> dearpygui.demo <span class="hljs-keyword" style="color: rgb(226, 137, 100);">import</span> show_demo
-
-dpg.create_context()
-dpg.create_viewport()
-dpg.setup_dearpygui()
-
-show_demo()
-
-dpg.show_viewport()
-dpg.start_dearpygui()
-dpg.destroy_context()</pre>
-  
-<br/>
-
-<img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_window.png" alt="Example window">
-  
-```Python
-import dearpygui.dearpygui as dpg
-
+<table>
+  <tr>
+    <td>
+      <pre>
+import dearpygui.dearpygui as dpg<BR/>
 def save_callback():
-    print("Save Clicked")
-
+&nbsp;&nbsp;&nbsp;&nbsp;print("Save Clicked")<BR/>
 dpg.create_context()
 dpg.create_viewport()
-dpg.setup_dearpygui()
-
+dpg.setup_dearpygui()<BR/>
 with dpg.window(label="Example Window"):
-    dpg.add_text("Hello world")
-    dpg.add_button(label="Save", callback=save_callback)
-    dpg.add_input_text(label="string")
-    dpg.add_slider_float(label="float")
-
+&nbsp;&nbsp;&nbsp;&nbsp;dpg.add_text("Hello world")
+&nbsp;&nbsp;&nbsp;&nbsp;dpg.add_button(label="Save", callback=save_callback)
+&nbsp;&nbsp;&nbsp;&nbsp;dpg.add_input_text(label="string")
+&nbsp;&nbsp;&nbsp;&nbsp;dpg.add_slider_float(label="float")<BR/>
 dpg.show_viewport()
 dpg.start_dearpygui()
 dpg.destroy_context()
-```
-Result:
-<BR>![BasicUsageExample](https://github.com/hoffstadt/DearPyGui/blob/assets/BasicUsageExample1.PNG?raw=true)
-
+      </pre>
+    </td>
+    <td>
+      ARROW
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/BasicUsageExample1.PNG" alt="Example window">
+    </td>
+  </tr>
+</table>
+  
+ 
 ## Resources
 
 - [User Documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
