@@ -85,11 +85,16 @@ Using Dear PyGui is as simple as creating a python script.
 <table>
   <tr>
     <td>
-      <img src="">
+      <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg">
+    </td>
+    <td>
+      <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/arrow.png" alt="arrow">
+    </td>
+    <td>
+      <img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/BasicUsageExample1.PNG" alt="Example window">
     </td>
   </tr>
-</table>
-  
+</table>  
 
 <table>
   <tr>
