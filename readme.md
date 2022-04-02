@@ -145,12 +145,9 @@ If you are having issues or want to help, here are some places you can go:
 
 
 ## Sponsors
-Ongoing _Dear PyGui_ development is financially supported by users and private sponsors.
-If you enjoy _Dear PyGui_ please consider becoming a [sponsor](https://github.com/hoffstadt/DearPyGui/wiki/Sponsors).
+Ongoing Dear PyGui development is financially supported by users and private sponsors. If you enjoy Dear PyGui please consider becoming a [sponsor](https://github.com/hoffstadt/DearPyGui/wiki/Sponsors) or buy us a [cup of coffee](https://www.buymeacoffee.com/DearPyGui).
   
-![GitHub Sponsors](https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors) | ![Open Collective](https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors)
-
-<a href="https://www.buymeacoffee.com/DearPyGui"><img src="https://img.buymeacoffee.com/button-api/?text=Buy us a coffee&emoji=&slug=DearPyGui&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
+![GitHub Sponsors](https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors) &nbsp; &nbsp; &nbsp; ![Open Collective](https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors)
 
 ### Tech talk
 Dear PyGui is fundamentally different than other Python GUI frameworks. Under the hood, it is built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a> and uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. Dear PyGui is currently supported on the following platforms. 
