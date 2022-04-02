@@ -33,7 +33,6 @@
   <a href="#resources">Resources</a> •
   <a href="#support">Support</a> •
   <a href="#sponsors">Sponsors</a> •
-  <a href="#features">Features</a> •
   <a href="#credits">Credits</a> •
   <a href="#tech-talk">Tech talk</a> •
   <a href="#license">License</a>
