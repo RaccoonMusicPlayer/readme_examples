@@ -16,8 +16,7 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Embedded%20Build"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Embedded%20Build/badge.svg?branch=master" alt="Embedded build"></a>![badge](https://user-images.githubusercontent.com/54912887/161387448-96f74472-204a-42bf-af2a-e7fad4676b89.svg)
-
+   <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Embedded%20Build"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Embedded%20Build/badge.svg?branch=master" alt="static-analysis"></a>
    <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Static%20Analysis"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Static%20Analysis/badge.svg?branch=master" alt="static-analysis"></a>
    <a href="https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml"><img src="https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml/badge.svg?branch=master" alt="Deployment"></a>
    <a href="https://dearpygui.readthedocs.io/en/latest/?badge=latest"><img src="https://readthedocs.org/projects/dearpygui/badge/?version=latest" alt="Documentation Status"></a>
@@ -83,9 +82,11 @@ Ensure you have at least Python 3.7 64bit.
 Using Dear PyGui is as simple as creating a python script.
   
 <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg" style="width:100%">
-  
-<img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg">
 
+<p align="center">
+  <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg">
+</p>
+  
 <table>
   <tr>
     <td>
