@@ -34,7 +34,7 @@
   <a href="#tech-talk">Tech talk</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a> •
-  <a href="#showcase-gallery">Showcase gallery</a>
+  <a href="#gallery">Gallery</a>
 </p>
 
 <h1></h1>
@@ -173,7 +173,7 @@ In the same manner Dear ImGui provides a simple way to create tools for game dev
 ## License
 Dear PyGui is licensed under the [MIT License](https://github.com/hoffstadt/DearPyGui/blob/master/LICENSE).
 
-## Showcase gallery
+## Gallery
 
 #### Plotting/Graphing
 _Dear PyGui_ includes a plotting API built with [ImPlot](https://github.com/epezent/implot)
