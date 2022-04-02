@@ -85,7 +85,7 @@ Using Dear PyGui is as simple as creating a python script.
 <table>
   <tr>
     <td>
-      <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg">
+      <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg" style="width:100%">
     </td>
     <td>
       <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/arrow.png" alt="arrow">
@@ -96,34 +96,6 @@ Using Dear PyGui is as simple as creating a python script.
   </tr>
 </table>  
 
-<table>
-  <tr>
-    <td>
-      <pre>
-import dearpygui.dearpygui as dpg<BR/>
-def save_callback():
-&nbsp;&nbsp;&nbsp;&nbsp;print("Save Clicked")<BR/>
-dpg.create_context()
-dpg.create_viewport()
-dpg.setup_dearpygui()<BR/>
-with dpg.window(label="Example Window"):
-&nbsp;&nbsp;&nbsp;&nbsp;dpg.add_text("Hello world")
-&nbsp;&nbsp;&nbsp;&nbsp;dpg.add_button(label="Save", callback=save_callback)
-&nbsp;&nbsp;&nbsp;&nbsp;dpg.add_input_text(label="string")
-&nbsp;&nbsp;&nbsp;&nbsp;dpg.add_slider_float(label="float")<BR/>
-dpg.show_viewport()
-dpg.start_dearpygui()
-dpg.destroy_context()
-      </pre>
-    </td>
-    <td>
-      <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/arrow.png" alt="arrow">
-    </td>
-    <td>
-      <img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/BasicUsageExample1.PNG" alt="Example window">
-    </td>
-  </tr>
-</table>
 
 ## Developer tools
 - Internal Documentation: Run the `show_documentation` command from within the library to view a reference guide. 
