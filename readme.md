@@ -56,9 +56,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="380">   <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="380">
 </p>
-<p align="center"> 
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="380">  <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/candle.gif" width="380"> 
-</p>
 <h1></h1>
   
 ### Functionality
@@ -74,6 +71,12 @@
 - Canvas with layers for drawing, textures, images
 - Real-time plotting
 - Node editor
+
+<h1></h1>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="380">  <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/candle.gif" width="380"> 
+</p>
+<h1></h1>
   
 ## Installation
 
