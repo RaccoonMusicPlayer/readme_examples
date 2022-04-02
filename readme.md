@@ -5,7 +5,7 @@
   <br><br/>
 </h1>
 
-<h4 align="center">A fast, modern and powerful GUI framework for Python built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a>.</h4>
+<h4 align="center">A modern, fast and powerful GUI framework for Python built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a>.</h4>
 
 <h1></h1>
 
@@ -108,11 +108,11 @@ Result:
 
 ## Resources
 
-- [User Documentation](https://dearpygui.readthedocs.io/en/latest/index.html) comprehensive documentation, tutorials, and examples.
-- [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4) major future features and changes.
+- [User Documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
+- [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4)
 - [FAQ](https://github.com/hoffstadt/DearPyGui/discussions/categories/frequently-asked-questions-faq)
-- [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22) all proposed new features.
-- [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22) current bugs and issues.
+- [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22)
+- [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22)
 
 ## Developer tools
 - Internal Documentation: Run the `show_documentation` command from within the library to view a reference guide. 
@@ -134,7 +134,8 @@ dpg.destroy_context()
  
 <table>
   <tr>
-    <td>Python
+    <td>
+      ```Python
 import dearpygui.dearpygui as dpg
 
 def save_callback():
@@ -152,7 +153,7 @@ with dpg.window(label="Example Window"):
 
 dpg.show_viewport()
 dpg.start_dearpygui()
-dpg.destroy_context()
+dpg.destroy_context()```
 </td>
     <td><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/BasicUsageExample1.PNG?raw=true" alt="BasicUsageExample"></td>
   </tr>
