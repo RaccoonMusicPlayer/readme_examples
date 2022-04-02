@@ -80,6 +80,23 @@ Ensure you have at least Python 3.7 64bit.
 ## How to use?
  
 Using Dear PyGui is as simple as creating a python script like the one below.
+  
+<pre class="hljs" style="display: block; overflow-x: auto; background: rgb(0, 0, 0); color: rgb(135, 135, 248);">
+
+<span class="hljs-keyword" style="color: rgb(226, 137, 100);">import</span> dearpygui.dearpygui <span  style="color: rgb(226, 137, 100);">as</span> dpg
+<span class="hljs-keyword" style="color: rgb(226, 137, 100);">from</span> dearpygui.demo <span class="hljs-keyword" style="color: rgb(226, 137, 100);">import</span> show_demo
+
+dpg.create_context()
+dpg.create_viewport()
+dpg.setup_dearpygui()
+
+show_demo()
+
+dpg.show_viewport()
+dpg.start_dearpygui()
+dpg.destroy_context()</pre>
+  
+<br/>
 
 <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_window.png" alt="Example window">
   
