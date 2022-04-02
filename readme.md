@@ -26,8 +26,7 @@
 
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#gallery">Gallery</a> •
-  <a href="#showcase">Showcase</a> •
+  <a href="#gallery">Showcase gallery</a> •
   <a href="#installation">Installation</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#resources">Resources</a> •
@@ -174,7 +173,7 @@ In the same manner Dear ImGui provides a simple way to create tools for game dev
 ## License
 Dear PyGui is licensed under the [MIT License](https://github.com/hoffstadt/DearPyGui/blob/master/LICENSE).
 
-## Examples of features
+## Showcase gallery
 
 #### Plotting/Graphing
 _Dear PyGui_ includes a plotting API built with [ImPlot](https://github.com/epezent/implot)
@@ -203,10 +202,6 @@ _Dear PyGui_ includes a drawing API to create custom drawings, plot, and even 2D
 _Dear PyGui_ includes several tools to help developers with _DearPyGui_ app development:
 <BR>![BasicUsageExample](https://github.com/hoffstadt/DearPyGui/blob/assets/tools.png?raw=true)
 
-
-
- 
-## Gallery
  ![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/3d.png)
  
  ![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/nodes1.png)
