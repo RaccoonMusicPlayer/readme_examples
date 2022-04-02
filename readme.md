@@ -52,6 +52,7 @@
 - **Built-in demo and documentation**
 - **MIT license**
 
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="300"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="300"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="300"> 
   
 ### Functionality
 - Menus, tabs, windows, tree nodes
@@ -140,16 +141,16 @@ Dear PyGui is licensed under the [MIT License](https://github.com/hoffstadt/Dear
 #### Plotting/Graphing
 _Dear PyGui_ includes a plotting API built with [ImPlot](https://github.com/epezent/implot)
 
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/controls.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/dnd.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="270">
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/controls.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/dnd.gif" width="270">
 
 <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/query.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/bars.gif" width="270">
 <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/rt.gif" width="270">
 
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/markers.gif" width="270">
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/markers.gif" width="270">
 <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/shaded.gif" width="270">
 
 <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/candle.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/heat.gif" width="270">
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="270">
+
 
 #### Node Editor
 _Dear PyGui_ includes a node editor built with [imnodes](https://github.com/Nelarius/imnodes)
