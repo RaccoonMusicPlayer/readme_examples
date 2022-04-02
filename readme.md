@@ -41,7 +41,7 @@
 
 <h1></h1>
 
-<BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true)
+<BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true) 
   
 ### Features  
 - **Modern look** — Complete theme and style control
@@ -85,7 +85,9 @@ Using Dear PyGui is as simple as creating a python script.
 ## Developer tools
 - Internal Documentation: Run the `show_documentation` command from within the library to view a reference guide. 
 - [Complete Demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo): View a mostly complete showcase of Dear PyGui.
- 
+
+<a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
+  
 ## Resources
 
 - [User Documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
