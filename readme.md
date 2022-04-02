@@ -85,6 +85,15 @@ Using Dear PyGui is as simple as creating a python script.
 <table>
   <tr>
     <td>
+      <img src="">
+    </td>
+  </tr>
+</table>
+  
+
+<table>
+  <tr>
+    <td>
       <pre>
 import dearpygui.dearpygui as dpg<BR/>
 def save_callback():
