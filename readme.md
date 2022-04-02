@@ -84,22 +84,7 @@ Using Dear PyGui is as simple as creating a python script.
                                                                                            
 ## Developer tools
 - Internal Documentation: Run the `show_documentation` command from within the library to view a reference guide. 
-- Complete Demo: You can also view a mostly complete showcase of _Dear PyGui_ by running:
-```python
-import dearpygui.dearpygui as dpg
-from dearpygui.demo import show_demo
-
-dpg.create_context()
-dpg.create_viewport()
-dpg.setup_dearpygui()
-
-show_demo()
-
-dpg.show_viewport()
-dpg.start_dearpygui()
-dpg.destroy_context()
-```
- 
+- [Complete Demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo): View a mostly complete showcase of Dear PyGui.
  
 ## Resources
 
