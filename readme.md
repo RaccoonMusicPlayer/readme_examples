@@ -52,9 +52,14 @@
 - **Built-in demo and documentation**
 - **MIT license**
 
+<h1></h1>
 <p align="center">
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="300">   <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="300">   <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="300">
+  <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="380">   <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="380">
 </p>
+<p align="center"> 
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="380">  <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/candle.gif" width="380"> 
+</p>
+<h1></h1>
   
 ### Functionality
 - Menus, tabs, windows, tree nodes
@@ -151,7 +156,7 @@ _Dear PyGui_ includes a plotting API built with [ImPlot](https://github.com/epez
 <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/markers.gif" width="270">
 <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/shaded.gif" width="270">
 
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/candle.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/heat.gif" width="270">
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/heat.gif" width="270">
 
 
 #### Node Editor
