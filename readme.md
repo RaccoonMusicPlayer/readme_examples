@@ -122,8 +122,6 @@ dpg.destroy_context()
 
   <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a> 
   
-
-
 - Theme inspection
 - resource inspection
 - Runtime metrics
@@ -140,9 +138,10 @@ dpg.destroy_context()
 
 If you are having issues or want to help, here are some places you can go:
 - [Github Discussions](https://github.com/hoffstadt/DearPyGui/discussions/)
-- [Discord Forum](https://discord.gg/tyE7Gu4) | [![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4)
-- [Reddit](https://www.reddit.com/r/DearPyGui/) | [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
+- [Discord Forum](https://discord.gg/tyE7Gu4)
+- [Reddit](https://www.reddit.com/r/DearPyGui/)
 
+[![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4) &nbsp; &nbsp; &nbsp; [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
 
 ## Sponsors
 Ongoing Dear PyGui development is financially supported by users and private sponsors. If you enjoy Dear PyGui please consider becoming a [sponsor](https://github.com/hoffstadt/DearPyGui/wiki/Sponsors) or buy us a [cup of coffee](https://www.buymeacoffee.com/DearPyGui).
