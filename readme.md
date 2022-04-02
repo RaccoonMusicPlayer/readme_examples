@@ -79,9 +79,9 @@ Ensure you have at least Python 3.7 64bit.
 ## How to use?
  
 Using Dear PyGui is as simple as creating a python script.
-  
-<img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg">
-  
+
+<a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run" alt="Getting started with DPG"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg"></a>
+                                                                                           
 <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg" style="width:800; height=1000">
   
 <table>
