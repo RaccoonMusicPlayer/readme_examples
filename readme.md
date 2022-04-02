@@ -28,7 +28,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#how-to-use">How To Use</a> • 
-  <a href="#developer-tools">Developer tools</a> •
+  <a href="#tools">Tools</a> •
   <a href="#resources">Resources</a> •
   <a href="#support">Support</a> •
   <a href="#sponsors">Sponsors</a> •
@@ -111,7 +111,7 @@ dpg.start_dearpygui()
 dpg.destroy_context()
 ```
                                                                                            
-## Developer tools
+## Tools
 - View a [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code and inspect the relevant code.
   
   <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
