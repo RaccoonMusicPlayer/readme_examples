@@ -89,9 +89,28 @@ Ensure you have at least Python 3.7 64bit.
  
 ## How to use?
  
-Using Dear PyGui is as simple as creating a python script.
+Using Dear PyGui is as simple as <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run" alt="Getting started with DPG">creating a python script</a>.
+  
+```Python
+import dearpygui.dearpygui as dpg
 
-<a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run" alt="Getting started with DPG"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg"></a>
+def save_callback():
+    print("Save Clicked")
+
+dpg.create_context()
+dpg.create_viewport()
+dpg.setup_dearpygui()
+
+with dpg.window(label="Example Window"):
+    dpg.add_text("Hello world")
+    dpg.add_button(label="Save", callback=save_callback)
+    dpg.add_input_text(label="string")
+    dpg.add_slider_float(label="float")
+
+dpg.show_viewport()
+dpg.start_dearpygui()
+dpg.destroy_context()
+```
                                                                                            
 ## Developer tools
 - The documentation to Dear PyGui is built into the library and can be called with the `show_documentation` command to look up information on the API. 
