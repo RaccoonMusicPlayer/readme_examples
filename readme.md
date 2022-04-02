@@ -114,9 +114,12 @@ dpg.destroy_context()
                                                                                            
 ## Developer tools
 - The documentation to Dear PyGui is built into the library and can be called with the `show_documentation` command to look up information on the API. 
-- View the [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of nearly all of Dear PyGui's functionality and inspect the code for each part of the demo by adding a [single line](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code.
 
-<a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
+  <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a> 
+  
+- View the [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of nearly all of Dear PyGui's functionality and inspect the code for each part of the demo by adding a [single line](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code.
+  
+  <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
 
 - Theme inspection, resource inspection, runtime metrics
   
@@ -156,13 +159,13 @@ Dear PyGui is fundamentally different than other Python GUI frameworks. Under th
   
  ## Credits
 
-Developed by [Jonathan Hoffstadt](https://github.com/hoffstadt), [Preston Cothren](https://github.com/Pcothren) and every direct or indirect contributor.
+- Developed by [Jonathan Hoffstadt](https://github.com/hoffstadt), [Preston Cothren](https://github.com/Pcothren) and every direct or indirect contributor.
 
-[Omar Cornut](http://www.miracleworld.net/) for all his incredible work on [Dear ImGui](https://github.com/ocornut/imgui).
+- [Omar Cornut](http://www.miracleworld.net/) for all his incredible work on [Dear ImGui](https://github.com/ocornut/imgui).
 
-[Evan Pezent](http://evanpezent.com/) for all his work on [ImPlot](https://github.com/epezent/implot).
+- [Evan Pezent](http://evanpezent.com/) for all his work on [ImPlot](https://github.com/epezent/implot).
 
-[Johann Muszynski](https://github.com/Nelarius) for all of his work on [imnodes](https://github.com/Nelarius/imnodes).
+- [Johann Muszynski](https://github.com/Nelarius) for all of his work on [imnodes](https://github.com/Nelarius/imnodes).
 
 ## License
 Dear PyGui is licensed under the [MIT License](https://github.com/hoffstadt/DearPyGui/blob/master/LICENSE).
