@@ -122,7 +122,9 @@ dpg.destroy_context()
   
 
 
-- Theme inspection, resource inspection, runtime metrics
+- Theme inspection
+- resource inspection
+- Runtime metrics
   
 ## Resources
 
@@ -148,7 +150,7 @@ If you enjoy _Dear PyGui_ please consider becoming a [sponsor](https://github.co
 <a href="https://www.buymeacoffee.com/DearPyGui"><img src="https://img.buymeacoffee.com/button-api/?text=Buy us a coffee&emoji=&slug=DearPyGui&button_colour=FFDD00&font_colour=000000&font_family=Cookie&outline_colour=000000&coffee_colour=ffffff"></a>
 
 ### Tech talk
-Dear PyGui is fundamentally different than other Python GUI frameworks. Under the hood, Dear PyGui uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. Dear PyGui is currently supported on the following platforms. 
+Dear PyGui is fundamentally different than other Python GUI frameworks. Under the hood, it is built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a> and uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. Dear PyGui is currently supported on the following platforms. 
 
 | Platform | Graphics API | Newest Version |
 |----------|---------------|----------------|
@@ -172,7 +174,7 @@ In the same manner Dear ImGui provides a simple way to create tools for game dev
 ## License
 Dear PyGui is licensed under the [MIT License](https://github.com/hoffstadt/DearPyGui/blob/master/LICENSE).
 
-## Features
+## Examples of features
 
 #### Plotting/Graphing
 _Dear PyGui_ includes a plotting API built with [ImPlot](https://github.com/epezent/implot)
