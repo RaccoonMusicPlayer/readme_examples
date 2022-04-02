@@ -83,6 +83,8 @@ Using Dear PyGui is as simple as creating a python script.
   
 <img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg">
   
+<img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg" style="width:800; height=1000">
+  
 <table>
   <tr>
     <td>
