@@ -91,8 +91,8 @@ Using Dear PyGui is as simple as creating a python script.
 <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run" alt="Getting started with DPG"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/example_code.svg"></a>
                                                                                            
 ## Developer tools
-- Internal Documentation. The documentation to Dear PyGui is built into the library and can be called with the `show_documentation` command to look up information on the API. 
-- View s [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of nearly all of Dear PyGui's functionality and inspect the code for each part of the demo by adding a [single line](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code.
+- The documentation to Dear PyGui is built into the library and can be called with the `show_documentation` command to look up information on the API. 
+- View the [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of nearly all of Dear PyGui's functionality and inspect the code for each part of the demo by adding a [single line](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code.
 
 <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
 
