@@ -27,7 +27,8 @@
 <p align="center">
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
-  <a href="#how-to-use">How To Use</a> •
+  <a href="#how-to-use">How To Use</a> • 
+  <a href="#developer-tools">Developer tools</a> •
   <a href="#resources">Resources</a> •
   <a href="#support">Support</a> •
   <a href="#sponsors">Sponsors</a> •
