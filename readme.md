@@ -26,7 +26,6 @@
 
 <p align="center">
   <a href="#features">Features</a> •
-  <a href="#gallery">Showcase gallery</a> •
   <a href="#installation">Installation</a> •
   <a href="#how-to-use">How To Use</a> •
   <a href="#resources">Resources</a> •
@@ -34,7 +33,8 @@
   <a href="#sponsors">Sponsors</a> •
   <a href="#tech-talk">Tech talk</a> •
   <a href="#credits">Credits</a> •
-  <a href="#license">License</a>
+  <a href="#license">License</a> •
+  <a href="#showcase-gallery">Showcase gallery</a>
 </p>
 
 <h1></h1>
