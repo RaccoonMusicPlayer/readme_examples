@@ -52,7 +52,9 @@
 - **Built-in demo and documentation**
 - **MIT license**
 
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="300"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="300"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="300"> 
+<p align="center">
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="300">   <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="300">   <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="300">
+</p>
   
 ### Functionality
 - Menus, tabs, windows, tree nodes
