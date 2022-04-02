@@ -116,7 +116,7 @@ dpg.destroy_context()
 
   <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a> 
   
-- View the [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of nearly all of Dear PyGui's functionality and inspect the code for each part of the demo by adding a [single line](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code.
+- View a [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of nearly all of Dear PyGui's functionality and inspect the code for each part of the demo by adding a [single line](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code.
   
   <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
 
