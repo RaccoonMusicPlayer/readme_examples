@@ -16,7 +16,8 @@
 </p>
 
 <p align="center">
-   <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Embedded%20Build"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Embedded%20Build/badge.svg?branch=master" alt="Embedded build"></a>
+   <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Embedded%20Build"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Embedded%20Build/badge.svg?branch=master" alt="Embedded build"></a>![badge](https://user-images.githubusercontent.com/54912887/161387448-96f74472-204a-42bf-af2a-e7fad4676b89.svg)
+
    <a href="https://github.com/hoffstadt/DearPyGui/actions?workflow=Static%20Analysis"><img src="https://github.com/hoffstadt/DearPyGui/workflows/Static%20Analysis/badge.svg?branch=master" alt="static-analysis"></a>
    <a href="https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml"><img src="https://github.com/hoffstadt/DearPyGui/actions/workflows/Deployment.yml/badge.svg?branch=master" alt="Deployment"></a>
    <a href="https://dearpygui.readthedocs.io/en/latest/?badge=latest"><img src="https://readthedocs.org/projects/dearpygui/badge/?version=latest" alt="Documentation Status"></a>
@@ -109,15 +110,6 @@ dpg.destroy_context()
     </td>
   </tr>
 </table>
-  
- 
-## Resources
-
-- [User Documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
-- [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4)
-- [FAQ](https://github.com/hoffstadt/DearPyGui/discussions/categories/frequently-asked-questions-faq)
-- [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22)
-- [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22)
 
 ## Developer tools
 - Internal Documentation: Run the `show_documentation` command from within the library to view a reference guide. 
@@ -137,37 +129,15 @@ dpg.start_dearpygui()
 dpg.destroy_context()
 ```
  
-
-## Features
-
-#### Plotting/Graphing
-_Dear PyGui_ includes a plotting API built with [ImPlot](https://github.com/epezent/implot)
-
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/controls.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/dnd.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="270">
-
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/query.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/bars.gif" width="270">
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/rt.gif" width="270">
-
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/markers.gif" width="270">
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/shaded.gif" width="270">
-
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/candle.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/heat.gif" width="270">
-<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="270">
-
-#### Node Editor
-_Dear PyGui_ includes a node editor built with [imnodes](https://github.com/Nelarius/imnodes)
-![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/nodes2.png)
-
-
-#### Canvas
-_Dear PyGui_ includes a drawing API to create custom drawings, plot, and even 2D games.
-![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/tetris.png)
  
-#### Tools
-_Dear PyGui_ includes several tools to help developers with _DearPyGui_ app development:
-<BR>![BasicUsageExample](https://github.com/hoffstadt/DearPyGui/blob/assets/tools.png?raw=true)
+## Resources
 
-
+- [User Documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
+- [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4)
+- [FAQ](https://github.com/hoffstadt/DearPyGui/discussions/categories/frequently-asked-questions-faq)
+- [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22)
+- [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22)
+  
 ## Support
 
 If you are having issues or want to help, here are some places you can go:
@@ -205,8 +175,39 @@ Developed by [Jonathan Hoffstadt](https://github.com/hoffstadt), [Preston Cothre
 [Johann Muszynski](https://github.com/Nelarius) for all of his work on [imnodes](https://github.com/Nelarius/imnodes).
 
 ## License
-
 Dear PyGui is licensed under the [MIT License](https://github.com/hoffstadt/DearPyGui/blob/master/LICENSE).
+
+## Features
+
+#### Plotting/Graphing
+_Dear PyGui_ includes a plotting API built with [ImPlot](https://github.com/epezent/implot)
+
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/controls.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/dnd.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/pie.gif" width="270">
+
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/query.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/bars.gif" width="270">
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/rt.gif" width="270">
+
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/stem.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/markers.gif" width="270">
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/shaded.gif" width="270">
+
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/candle.gif" width="270"> <img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/heat.gif" width="270">
+<img src="https://raw.githubusercontent.com/wiki/epezent/implot/screenshots3/tables.gif" width="270">
+
+#### Node Editor
+_Dear PyGui_ includes a node editor built with [imnodes](https://github.com/Nelarius/imnodes)
+![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/nodes2.png)
+
+
+#### Canvas
+_Dear PyGui_ includes a drawing API to create custom drawings, plot, and even 2D games.
+![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/tetris.png)
+ 
+#### Tools
+_Dear PyGui_ includes several tools to help developers with _DearPyGui_ app development:
+<BR>![BasicUsageExample](https://github.com/hoffstadt/DearPyGui/blob/assets/tools.png?raw=true)
+
+
+
  
 ## Gallery
  ![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/3d.png)
