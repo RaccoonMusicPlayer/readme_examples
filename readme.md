@@ -136,7 +136,7 @@ dpg.destroy_context()
   
 ## Support
 
-If you are having issues or want to help, here are some places you can go:
+If you are having issues or want to help, here are some places you can go.
 - [Github Discussions](https://github.com/hoffstadt/DearPyGui/discussions/)
 - [Discord Forum](https://discord.gg/tyE7Gu4)
 - [Reddit](https://www.reddit.com/r/DearPyGui/)
@@ -149,7 +149,9 @@ Ongoing Dear PyGui development is financially supported by users and private spo
 ![GitHub Sponsors](https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors) &nbsp; &nbsp; &nbsp; ![Open Collective](https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors)
 
 ### Tech talk
-Dear PyGui is fundamentally different than other Python GUI frameworks. Under the hood, it is built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a> and uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. Dear PyGui is currently supported on the following platforms. 
+Dear PyGui is fundamentally different than other Python GUI frameworks. Under the hood, it is built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a> and uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. In the same manner Dear ImGui provides a simple way to create tools for game developers, Dear PyGui provides a simple way for python developers to create quick and powerful GUIs for scripts.
+  
+Dear PyGui is currently supported on the following platforms. 
 
 | Platform | Graphics API | Newest Version |
 |----------|---------------|----------------|
@@ -157,8 +159,6 @@ Dear PyGui is fundamentally different than other Python GUI frameworks. Under th
 | **macOS** | _Metal_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
 | **Linux** | _OpenGL 3_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
 | **Raspberry Pi 4** | _OpenGL ES_ | [![PYPI](https://img.shields.io/badge/pypi-v1.2-blue)](https://img.shields.io/badge/pypi-v1.2-blue) |
-
-In the same manner Dear ImGui provides a simple way to create tools for game developers, Dear PyGui provides a simple way for python developers to create quick and powerful GUIs for scripts.
   
  ## Credits
 
