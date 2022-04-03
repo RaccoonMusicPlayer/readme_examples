@@ -118,7 +118,7 @@ dpg.destroy_context()
   
   <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
   
-- The documentation to Dear PyGui is built into the library and can be called with the `show_documentation` command to look up information on the API. 
+- The API documentation is built into the library and can be called with the `show_documentation` command. 
 
   <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a> 
   
