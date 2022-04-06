@@ -110,13 +110,12 @@ dpg.show_viewport()
 dpg.start_dearpygui()
 dpg.destroy_context()
 ```
-
-<a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/first_app.gif" alt="Dear PyGui example window"></a>
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
 ## Tools
 View a [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code and inspect the relevant code.
   
-  <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a> 
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a></p>
   
 The API documentation is built into the library and can be called with the `show_documentation` command. 
 
