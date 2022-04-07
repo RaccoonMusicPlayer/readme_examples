@@ -113,7 +113,7 @@ dpg.destroy_context()
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
 ## Tools
-View a [demonstration](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code and inspect the relevant code.
+There are several developer tools built into Dear PyGui that can assist in developing and debugging your code. You can interact with an eloborate [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code and inspect the relevant code.
   
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a></p>
   
