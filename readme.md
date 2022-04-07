@@ -111,17 +111,18 @@ dpg.show_viewport()
 dpg.start_dearpygui()
 dpg.destroy_context()
 ```
+<br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
 ## Tools
 There are several developer tools built into Dear PyGui that can assist in developing and debugging your code. You can interact with an eloborate [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code and inspect the relevant code.
-
+<br/><br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/demo.gif" alt="Dear PyGui demo"></a></p>
-  
-The API documentation is built into the library and can be called with the `show_documentation` command. 
+<br/>  
+The API documentation is built into the library and can be called with the <b>`show_documentation`</b> command, which results in the following documentation tool for browsing and searching Dear PyGui commands. Obviously, Dear PyGui supports autocomplete for your IDE as well.<br/><br/>
 
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a></p>
-  
+<br/>
 Theme inspection<br/>
 Resource inspection<br/>
 Runtime metrics<br/>
