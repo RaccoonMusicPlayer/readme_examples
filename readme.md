@@ -155,7 +155,7 @@ Dear PyGui is built on top of <a href="https://github.com/ocornut/imgui" target=
 Dear PyGui is currently supported on the following platforms. 
 
 | Platform | Graphics API | Newest Version |
-|----------|---------------|----------------|
+|:---------|:-------------|:---------------|
 | **Windows 10** | _DirectX 11_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
 | **macOS** | _Metal_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
 | **Linux** | _OpenGL 3_ | [![PYPI](https://img.shields.io/pypi/v/dearpygui)](https://pypi.org/project/dearpygui/) |
