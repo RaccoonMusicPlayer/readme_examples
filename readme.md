@@ -119,11 +119,11 @@ There are several developer tools built into Dear PyGui that can assist in devel
   
 The API documentation is built into the library and can be called with the `show_documentation` command. 
 
-<a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a> 
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a></p>
   
-Theme inspection
-Resource inspection
-Runtime metrics
+Theme inspection<br/>
+Resource inspection<br/>
+Runtime metrics<br/>
   
 ## Resources
 
