@@ -119,7 +119,7 @@ There are several developer tools built into Dear PyGui that can assist in devel
 <br/><br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/demo.gif" alt="Dear PyGui demo"></a></p>
 <br/>  
-The API documentation is built into the library and can be called with the <b>`show_documentation`</b> command, which results in the following documentation tool for browsing and searching Dear PyGui commands. Obviously, Dear PyGui supports autocomplete for your IDE as well.<br/><br/>
+The API documentation is built into the library and can be called with the <b>show_documentation</b> command, which results in the following documentation tool for browsing and searching Dear PyGui commands. Obviously, Dear PyGui supports autocomplete for your IDE as well.<br/><br/>
 
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a></p>
 <br/>
