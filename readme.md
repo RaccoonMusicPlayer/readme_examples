@@ -114,8 +114,8 @@ dpg.destroy_context()
                                                                                            
 ## Tools
 There are several developer tools built into Dear PyGui that can assist in developing and debugging your code. You can interact with an eloborate [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code and inspect the relevant code.
-  
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/dearpygui_demo.png" alt="Dear PyGui demo"></a></p>
+
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/demo.gif" alt="Dear PyGui demo"></a></p>
   
 The API documentation is built into the library and can be called with the `show_documentation` command. 
 
