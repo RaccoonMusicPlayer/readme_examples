@@ -121,7 +121,7 @@ There are several developer tools built into Dear PyGui that can assist in devel
 <br/>  
 The API documentation is built into the library and can be called with the <b>show_documentation</b> command. This brings up the documentation tool for browsing and searching Dear PyGui commands. Obviously, Dear PyGui supports autocomplete for your IDE as well.<br/><br/>
 
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation.png" alt="Dear PyGui internal documentation"></a></p>
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation_1112.png" alt="Dear PyGui internal documentation"></a></p>
 <br/>
 Theme inspection<br/>
 Resource inspection<br/>
