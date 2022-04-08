@@ -132,7 +132,7 @@ The built-in style editor allows you to experiment with all style options at run
 
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/style_editor_metrics.gif" alt="Dear PyGui style editor and runtime metrics"></a></p>
   
-## Resources
+## Resources 📄
 
 - [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4)
@@ -141,11 +141,11 @@ The built-in style editor allows you to experiment with all style options at run
 - [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22)
 - [Showcase apps including code](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
   
-## Support
+## Support 💬
 
 If you are having issues or want to help, here are some places you can go.
+- [Discord Forum](https://discord.gg/tyE7Gu4) | recommended -- most active Dear PyGui community
 - [Github Discussions](https://github.com/hoffstadt/DearPyGui/discussions/)
-- [Discord Forum](https://discord.gg/tyE7Gu4)
 - [Reddit](https://www.reddit.com/r/DearPyGui/)
 
   [![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4) &nbsp; &nbsp; &nbsp; [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
