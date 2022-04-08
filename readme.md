@@ -31,7 +31,7 @@
   <a href="#how-to-use">How To Use</a> • 
   <a href="#tools">Tools</a> •
   <a href="#resources">Resources</a> •
-  <a href="#support">Support</a> •
+  <a href="#Support-💬">Support</a> •
   <a href="#sponsors">Sponsors</a> •
   <a href="#tech-stack">Tech stack</a> •
   <a href="#credits">Credits</a> •
@@ -141,7 +141,7 @@ The built-in style editor allows you to experiment with all style options at run
 - [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22)
 - [Showcase apps including code](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
   
-## 💬 Support
+## Support 💬
 
 If you are having issues or want to help, here are some places you can go.
 - [Discord Forum](https://discord.gg/tyE7Gu4) | recommended -- most active Dear PyGui community
