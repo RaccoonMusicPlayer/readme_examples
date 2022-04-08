@@ -139,12 +139,12 @@ The built-in style editor allows you to experiment with all style options at run
 - [FAQ](https://github.com/hoffstadt/DearPyGui/discussions/categories/frequently-asked-questions-faq)
 - [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22)
 - [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22)
-- [Showcase apps including code](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
+- [Showcase including source code](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase):star:
   
 ## Support
 
 If you are having issues or want to help, here are some places you can go.
-  - [Discord Forum](https://discord.gg/tyE7Gu4) 💬 → most active community
+  - [Discord Forum](https://discord.gg/tyE7Gu4) 💬
   - [Github Discussions](https://github.com/hoffstadt/DearPyGui/discussions/)
   - [Reddit](https://www.reddit.com/r/DearPyGui/)
 
