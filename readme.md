@@ -134,7 +134,7 @@ The built-in style editor allows you to experiment with all style options at run
   
 ## Resources
 
-- :books: [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html) 
+- [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html) :books: 
 - [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4)
 - [FAQ](https://github.com/hoffstadt/DearPyGui/discussions/categories/frequently-asked-questions-faq)
 - [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22)
@@ -144,16 +144,18 @@ The built-in style editor allows you to experiment with all style options at run
 ## Support
 
 If you are having issues or want to help, here are some places you can go.
-  - 💬 [Discord Forum](https://discord.gg/tyE7Gu4) → most active Dear PyGui community
+  - [Discord Forum](https://discord.gg/tyE7Gu4) 💬 → most active community
   - [Github Discussions](https://github.com/hoffstadt/DearPyGui/discussions/)
   - [Reddit](https://www.reddit.com/r/DearPyGui/)
 
-  [![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4) &nbsp; &nbsp; &nbsp; [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
+&nbsp; &nbsp; &nbsp; &nbsp;[![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4) &nbsp; &nbsp; &nbsp; [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
 
 ## Sponsors
 Ongoing Dear PyGui development is financially supported by users and private sponsors. If you enjoy Dear PyGui please consider becoming a [sponsor](https://github.com/hoffstadt/DearPyGui/wiki/Sponsors) or buy us a [cup of coffee](https://www.buymeacoffee.com/DearPyGui).
   
-  ![GitHub Sponsors](https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors) &nbsp; &nbsp; &nbsp; ![Open Collective](https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors)
+![GitHub Sponsors](https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors) &nbsp; &nbsp; &nbsp; ![Open Collective](https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors)
+  
+<p align="center"><img src="https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors">&nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors"></p>
 
 ### Tech stack
 Dear PyGui is built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a> and is fundamentally different than other Python GUI frameworks. Under the hood, it uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. In the same manner Dear ImGui provides a simple way to create tools for game developers, Dear PyGui provides a simple way for python developers to create quick and powerful GUIs for scripts. Dear PyGui is written in C/C++ resulting in highly performant Python applications. 
