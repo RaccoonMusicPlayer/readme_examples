@@ -58,7 +58,7 @@
 </p>
 <h1></h1>
   
-### Functionality
+## Functionality
 - Menus, tabs, windows, tree nodes
 - Text widgets, input boxes
 - Comboboxes, listboxes 
@@ -115,18 +115,24 @@ dpg.destroy_context()
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
 ## Tools
-There are several developer tools built into Dear PyGui that can assist in developing and debugging your code. You can interact with an elaborate [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression only shows a fraction of all widgets and customisation options.
+There are several developer tools built into Dear PyGui that can assist in developing and debugging your code.
+
+### Built-in Demo
+You can interact with an elaborate [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression only shows a fraction of all widgets and customisation options.
 <br/><br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/demo.gif" alt="Dear PyGui demo"></a></p>
-<br/>  
+<br/>
+
+### Built-in documentation
 The API documentation is built into the library and can be called with <b>show_documentation()</b>. This brings up the documentation tool for browsing and searching Dear PyGui functions. Obviously, Dear PyGui supports autocomplete for your IDE as well.<br/><br/>
 
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation_1112.png" alt="Dear PyGui internal documentation"></a></p>
 <br/>
 
-Theme inspection<br/>
-Resource inspection<br/>
-Runtime metrics<br/>
+### Theme inspection
+### Resource inspection
+### Runtime metrics
+  
   
 ## Resources
 
