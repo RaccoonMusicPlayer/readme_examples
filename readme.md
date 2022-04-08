@@ -123,16 +123,7 @@ The API documentation is built into the library and can be called with the <b>sh
 
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation_1112.png" alt="Dear PyGui internal documentation"></a></p>
 <br/>
-    
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation%201069.png" alt="Dear PyGui internal documentation"></a></p>
-<br/>
 
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation_1000.png" alt="Dear PyGui internal documentation"></a></p>
-<br/>
-    
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation_1050.png" alt="Dear PyGui internal documentation"></a></p>
-<br/>
-  
 Theme inspection<br/>
 Resource inspection<br/>
 Runtime metrics<br/>
