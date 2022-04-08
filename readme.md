@@ -33,7 +33,7 @@
   <a href="#resources">Resources</a> •
   <a href="#support">Support</a> •
   <a href="#sponsors">Sponsors</a> •
-  <a href="#tech-talk">Tech talk</a> •
+  <a href="#tech-stack">Tech stack</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a> •
   <a href="#gallery">Gallery</a>
@@ -134,7 +134,7 @@ The API documentation is built into the library and can be called with <b>show_d
   
 ## Resources
 
-- [API documentation for users](https://dearpygui.readthedocs.io/en/latest/index.html)
+- [API documentation](https://dearpygui.readthedocs.io/en/latest/index.html)
 - [Development Roadmap](https://github.com/hoffstadt/DearPyGui/projects/4)
 - [FAQ](https://github.com/hoffstadt/DearPyGui/discussions/categories/frequently-asked-questions-faq)
 - [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22)
@@ -155,8 +155,8 @@ Ongoing Dear PyGui development is financially supported by users and private spo
   
   ![GitHub Sponsors](https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors) &nbsp; &nbsp; &nbsp; ![Open Collective](https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors)
 
-### Tech talk
-Dear PyGui is built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a> and is fundamentally different than other Python GUI frameworks. Under the hood, it uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. In the same manner Dear ImGui provides a simple way to create tools for game developers, Dear PyGui provides a simple way for python developers to create quick and powerful GUIs for scripts.
+### Tech stack
+Dear PyGui is built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a> and is fundamentally different than other Python GUI frameworks. Under the hood, it uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. In the same manner Dear ImGui provides a simple way to create tools for game developers, Dear PyGui provides a simple way for python developers to create quick and powerful GUIs for scripts. Dear PyGui is written in C/C++ resulting in highly performant Python applications. 
   
 Dear PyGui is currently supported on the following platforms. 
 
