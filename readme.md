@@ -141,6 +141,7 @@ The API documentation is built into the library and can be called with <b>show_d
 - [FAQ](https://github.com/hoffstadt/DearPyGui/discussions/categories/frequently-asked-questions-faq)
 - [Feature Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+feature%22)
 - [Bug Tracker](https://github.com/hoffstadt/DearPyGui/issues?q=is%3Aissue+is%3Aopen+label%3A%22type%3A+bug%22)
+- [Showcase apps with code](https://github.com/hoffstadt/DearPyGui/wiki/Dear-PyGui-Showcase)
   
 ## Support
 
