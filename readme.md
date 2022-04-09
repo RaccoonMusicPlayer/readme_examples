@@ -128,7 +128,7 @@ The API documentation is built into the library and can be called with show_docu
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation_1112.png" alt="Dear PyGui internal documentation"></a></p>
 
 ### Style editor and runtime metrics
-The built-in style editor allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in runtime metrics provide real-time information about your app performance. These tools can be activated by adding show_style_editor() and show_metrics() to your code. The following screen capture shows both tools in action at the same time, where changing the style settings immediately impact the overall application.
+The built-in style editor allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in runtime metrics provide real-time information about your app performance. These tools can be activated by adding <b>show_style_editor()</b> and <b>show_metrics()</b> to your code. The following screen capture shows both tools in action at the same time, where changing the style settings immediately impact the overall application.
 
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/style_editor_metrics.gif" alt="Dear PyGui style editor and runtime metrics"></a></p>
   
