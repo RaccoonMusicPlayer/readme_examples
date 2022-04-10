@@ -145,7 +145,6 @@ The built-in style editor allows you to experiment with all style options at run
 
 If you are having issues or want to help, here are some places you can go.
   - [Discord Forum](https://discord.gg/tyE7Gu4) 💬
-  - [Github Discussions](https://github.com/hoffstadt/DearPyGui/discussions/)
   - [Reddit](https://www.reddit.com/r/DearPyGui/)
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4) &nbsp; &nbsp; &nbsp; [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
