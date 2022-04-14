@@ -13,7 +13,7 @@
   <a href=""><img src="https://img.shields.io/pypi/pyversions/dearpygui" alt="Python versions"></a>
   <a href="https://pypi.org/project/dearpygui/"><img src="https://img.shields.io/pypi/v/dearpygui" alt="PYPI"></a>
   <a href="https://pepy.tech/project/dearpygui"><img src="https://pepy.tech/badge/dearpygui" alt="Downloads"></a>
-  <a href="https://pepy.tech/project/dearpygui"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/mit_badge.svg" alt="MIT License"></a>
+  <a href="https://pepy.tech/project/dearpygui"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/mit_badge.svg" alt="MIT License"></a>
 </p>
 
 <p align="center">
@@ -112,7 +112,7 @@ dpg.start_dearpygui()
 dpg.destroy_context()
 ```
 <br/>
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/first_app.gif" alt="Dear PyGui example window"></a></p>
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
 ## Tools
 There are several developer tools built into Dear PyGui that can assist in developing your app and debugging your code.
@@ -120,7 +120,7 @@ There are several developer tools built into Dear PyGui that can assist in devel
 ### Built-in Demo
 You can interact with an elaborate [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression only shows a fraction of all widgets and customisation options.
 <br/><br/>
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/demo.gif" alt="Dear PyGui demo"></a></p>
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/demo.gif" alt="Dear PyGui demo"></a></p>
 
 ### Built-in documentation
 The API documentation is built into the library and can be called with <b>show_documentation()</b>. This brings up the documentation tool for browsing and searching Dear PyGui functions. Obviously, Dear PyGui supports autocomplete for your IDE as well.<br/><br/>
