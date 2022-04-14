@@ -114,23 +114,13 @@ dpg.destroy_context()
 <br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
-## Tools
-There are several developer tools built into Dear PyGui that can assist in developing your app and debugging your code.
-
-### Built-in Demo
-You can interact with an elaborate [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) of Dear PyGui's functionality by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression only shows a fraction of all widgets and customisation options.
+0## Built-in Demo
+The built-in [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) shows all of Dear PyGui's functionality. This demo can be called by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression only shows a fraction of all widgets and customisation options.
 <br/><br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/demo.gif" alt="Dear PyGui demo"></a></p>
 
-### Built-in documentation
-The API documentation is built into the library and can be called with <b>show_documentation()</b>. This brings up the documentation tool for browsing and searching Dear PyGui functions. Obviously, Dear PyGui supports autocomplete for your IDE as well.<br/><br/>
-
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/internal_documentation_1112.png" alt="Dear PyGui internal documentation"></a></p>
-
-### Style editor and runtime metrics
-The built-in style editor allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in runtime metrics provide real-time information about your app performance. These tools can be activated by adding <b>show_style_editor()</b> and <b>show_metrics()</b> to your code. The following screen capture shows both tools in action at the same time, where changing the style settings immediately impact the overall application.
-
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/style_editor_metrics.gif" alt="Dear PyGui style editor and runtime metrics"></a></p>
+## Tools
+In addition to the demo, there are several developer tools built into Dear PyGui that can assist in developing your app and debugging your code. With the built-in <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">documentation</a>, you can search or browse the available API functions. The <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">style editor</a> allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in runtime <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">metrics</a> provide real-time information about your app's performance.
   
 ## Resources
 
