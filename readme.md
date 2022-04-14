@@ -13,7 +13,7 @@
   <a href=""><img src="https://img.shields.io/pypi/pyversions/dearpygui" alt="Python versions"></a>
   <a href="https://pypi.org/project/dearpygui/"><img src="https://img.shields.io/pypi/v/dearpygui" alt="PYPI"></a>
   <a href="https://pepy.tech/project/dearpygui"><img src="https://pepy.tech/badge/dearpygui" alt="Downloads"></a>
-  <a href="https://pepy.tech/project/dearpygui"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/mit_badge.svg" alt="MIT License"></a>
+  <a href="#license"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/mit_badge.svg" alt="MIT License"></a>
 </p>
 
 <p align="center">
