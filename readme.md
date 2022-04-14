@@ -29,7 +29,7 @@
   <a href="#features">Features</a> •
   <a href="#installation">Installation</a> •
   <a href="#how-to-use">How To Use</a> • 
-  <a href="#tools">Tools</a> •
+  <a href="#demo">Demo</a> •
   <a href="#resources">Resources</a> •
   <a href="#Support">Support</a> •
   <a href="#sponsors">Sponsors</a> •
