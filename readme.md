@@ -114,13 +114,13 @@ dpg.destroy_context()
 <br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
-0## Built-in Demo
+## Demo
 The built-in [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) shows all of Dear PyGui's functionality. This demo can be called by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression only shows a fraction of all widgets and customisation options.
 <br/><br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/demo.gif" alt="Dear PyGui demo"></a></p>
 
 ## Tools
-In addition to the demo, there are several developer tools built into Dear PyGui that can assist in developing your app and debugging your code. With the built-in <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">documentation</a>, you can search or browse the available API functions. The <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">style editor</a> allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in runtime <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">metrics</a> provide real-time information about your app's performance.
+In addition to the demo, there are several developer tools built into Dear PyGui that can assist in developing and debugging your app. With the built-in <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">documentation</a>, you can search or browse the available API functions. The <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">style editor</a> allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in runtime <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo">metrics</a> provide real-time information about your app's performance.
   
 ## Resources
 
