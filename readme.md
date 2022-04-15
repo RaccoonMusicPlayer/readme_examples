@@ -5,7 +5,7 @@
   <br><br/>
 </h1>
 
-<h4 align="center">A modern, fast and powerful GUI framework for Python built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a>.</h4>
+<h4 align="center">A modern, fast and powerful GUI framework for Python built on top of <a href="#tech-stack" target="_blank">Dear ImGui</a>.</h4>
 
 <h1></h1>
 
