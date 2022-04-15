@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/hoffstadt/DearPyGui"><img src="https://github.com/DataExplorerUser/readme_examples/blob/main/logo3.png" alt="Dear PyGui logo"></a>
+  <a href="https://github.com/hoffstadt/DearPyGui"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/dpg_logo_button.png" alt="Dear PyGui logo"></a>
   <br><br/>
 </h1>
 
