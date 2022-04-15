@@ -47,7 +47,7 @@
 - **Great performance** —  GPU-based rendering and efficient C/C++ code
 - **Stable operation** —  Asynchronous function support
 - **Built-in demo**
-- **Built-in developer tools** — Theme inspection, resource inspection, runtime metrics
+- **Built-in developer tools** — Theme and resource inspection, runtime metrics
 - **Cross-platform** — Windows, Linux, MacOS
 - **MIT license**
 
