@@ -46,8 +46,10 @@
 - **Modern look** — Complete theme and style control
 - **Great performance** —  GPU-based rendering and efficient C/C++ code
 - **Stable operation** —  Asynchronous function support
-- **Built-in demo**
-- **Built-in developer tools** — Theme and resource inspection, runtime metrics, debugger
+- **Fast graphs** — Display over 1 million datapoints at 60 fps, zoom and pan
+- **Node editor** — Intuitive user interaction
+- **Built-in demo** — Quickly learn all features
+- **Developer tools** — Theme and resource inspection, runtime metrics, debugger
 - **Cross-platform** — Windows, Linux, MacOS
 - **MIT license**
 
