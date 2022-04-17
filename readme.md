@@ -31,7 +31,7 @@
   <a href="#demo">Demo</a> •
   <a href="#resources">Resources</a> •
   <a href="#Support">Support</a> •
-  <a href="#sponsors">Sponsors</a> •
+  <a href="#sponsor">Sponsor</a> •
   <a href="#tech-stack">Tech stack</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a> •
@@ -140,7 +140,7 @@ If you are having issues or want to help, here are some places you can go.
 
 &nbsp; &nbsp; &nbsp; &nbsp;[![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4) &nbsp; &nbsp; &nbsp; [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
 
-## Sponsors
+## Sponsor
 Ongoing Dear PyGui development is financially supported by users and private sponsors. If you enjoy Dear PyGui please consider becoming a [sponsor](https://github.com/hoffstadt/DearPyGui/wiki/Sponsors) or buy us a [cup of coffee](https://www.buymeacoffee.com/DearPyGui).
   
 <p align="center"><img src="https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors">&nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors"></p>
