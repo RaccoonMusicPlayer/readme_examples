@@ -192,10 +192,7 @@ _Dear PyGui_ includes a node editor built with [imnodes](https://github.com/Nela
 #### Canvas
 _Dear PyGui_ includes a drawing API to create custom drawings, plot, and even 2D games.
 ![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/tetris.png)
- 
-#### Tools
-_Dear PyGui_ includes several tools to help developers with _DearPyGui_ app development:
-<BR>![BasicUsageExample](https://github.com/hoffstadt/DearPyGui/blob/assets/tools.png?raw=true)
+
 
  ![](https://github.com/hoffstadt/DearPyGui/blob/assets/readme/3d.png)
  
