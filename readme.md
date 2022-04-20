@@ -40,7 +40,7 @@
 
 <h1></h1>
 
-<BR>![Themes](https://github.com/hoffstadt/DearPyGui/blob/assets/linuxthemes.PNG?raw=true) 
+<BR>![Themes](https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/linuxthemes.PNG) 
   
 ### Features  
 - **Modern look** — Complete theme and style control
