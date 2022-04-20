@@ -113,12 +113,12 @@ dpg.start_dearpygui()
 dpg.destroy_context()
 ```
 <br/>
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/first_app.gif" alt="Dear PyGui example window"></a></p>
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/readme/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
 ## Demo
 The built-in demo shows all of Dear PyGui's functionality and can be called by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression shows a few, but not nearly all, of the available widgets and features. Since the Python code of the demo can be inspected, you can leverage the demo code to build your own apps.
 <br/><br/>
-<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/demo.gif" alt="Dear PyGui demo"></a></p>
+<p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/readme/demo.gif" alt="Dear PyGui demo"></a></p>
 
 ## Tools
 There are several developer tools built into Dear PyGui that can assist in developing and debugging your app. The <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#style-editor">style editor</a> allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#runtime-metrics">runtime metrics</a> provide real-time information about your app's performance. Additionally, the <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#font-manager">font manager</a> and <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#item-registry">item registry</a> viewer make it easier to inspect aspects of your app. All these tools can be used at runtime.
