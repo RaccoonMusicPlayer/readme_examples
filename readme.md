@@ -116,7 +116,7 @@ dpg.destroy_context()
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
 ## Demo
-The built-in [demo](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) shows all of Dear PyGui's functionality and can be called by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression only shows a fraction of all widgets and customisation options. Since the Python code of the demo can be inspected, you can leverage the demo code to build your own apps.
+The built-in demo shows all of Dear PyGui's functionality and can be called by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression shows a few, but not nearly all, of the available widgets and features. Since the Python code of the demo can be inspected, you can leverage the demo code to build your own apps.
 <br/><br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/demo.gif" alt="Dear PyGui demo"></a></p>
 
