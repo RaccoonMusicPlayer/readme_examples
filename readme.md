@@ -1,7 +1,7 @@
 
 <h1 align="center">
   <br>
-  <a href="https://github.com/hoffstadt/DearPyGui"><img src="https://github.com/hoffstadt/DearPyGui/blob/assets/readme/dpg_logo_button.png" alt="Dear PyGui logo"></a>
+  <a href="https://github.com/hoffstadt/DearPyGui"><img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/readme/dpg_logo_button.png" alt="Dear PyGui logo"></a>
 </h1>
 
 <h4 align="center">A modern, fast and powerful GUI framework for Python built on top of <a href="#tech-stack" target="_blank">Dear ImGui</a>.</h4>
