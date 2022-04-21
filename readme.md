@@ -30,7 +30,7 @@
   <a href="#how-to-use">How To Use</a> • 
   <a href="#demo">Demo</a> •
   <a href="#resources">Resources</a> •
-  <a href="#Support">Support</a> •
+  <a href="#support">Support</a> •
   <a href="#tech-stack">Tech stack</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a> •
