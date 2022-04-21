@@ -31,10 +31,10 @@
   <a href="#demo">Demo</a> •
   <a href="#resources">Resources</a> •
   <a href="#Support">Support</a> •
-  <a href="#sponsor">Sponsor</a> •
   <a href="#tech-stack">Tech stack</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a> •
+  <a href="#sponsor">Sponsor</a> •
   <a href="#gallery">Gallery</a>
 </p>
 
@@ -90,7 +90,7 @@ Ensure you have at least Python 3.7 64bit.
  
 ## How to use?
  
-Using Dear PyGui is as simple as <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run" alt="Getting started with DPG">creating a python script</a>.
+Using Dear PyGui is as simple as the following Python script.
   
 ```Python
 import dearpygui.dearpygui as dpg
@@ -116,12 +116,12 @@ dpg.destroy_context()
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#first-run"><img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/readme/first_app.gif" alt="Dear PyGui example window"></a></p>
                                                                                            
 ## Demo
-The built-in demo shows all of Dear PyGui's functionality and can be called by adding [two lines](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to your code. The following impression shows a few, but not nearly all, of the available widgets and features. Since the Python code of the demo can be inspected, you can leverage the demo code to build your own apps.
+The built-in demo shows all of Dear PyGui's functionality. Use [this code](https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo) to run the demo. The following impression shows a few, but not nearly all, of the available widgets and features. Since the Python code of the demo can be inspected, you can leverage the demo code to build your own apps.
 <br/><br/>
 <p align="center"><a href="https://dearpygui.readthedocs.io/en/latest/tutorials/first-steps.html#demo"><img src="https://raw.githubusercontent.com/hoffstadt/DearPyGui/assets/readme/demo.gif" alt="Dear PyGui demo"></a></p>
 
 ## Tools
-There are several developer tools built into Dear PyGui that can assist in developing and debugging your app. The <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#style-editor">style editor</a> allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#runtime-metrics">runtime metrics</a> provide real-time information about your app's performance. Additionally, the <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#font-manager">font manager</a> and <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#item-registry">item registry</a> viewer make it easier to inspect aspects of your app. All these tools can be used at runtime.
+There are several developer tools built into Dear PyGui that can assist in developing and debugging your app. The <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#style-editor">style editor</a> allows you to experiment with all style options at runtime to find the exact colors, padding, rounding and other style settings for your application. The built-in <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#runtime-metrics">runtime metrics</a> provide real-time information about your app's performance. Additionally, the <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#font-manager">font manager</a> and <a href="https://dearpygui.readthedocs.io/en/latest/tutorials/tips-resources.html#item-registry">item registry</a>  make it easier to inspect aspects of your app. All these tools can be used at runtime.
   
 ## Resources
 
@@ -139,11 +139,6 @@ If you are having issues or want to help, here are some places you can go.
   - [Reddit](https://www.reddit.com/r/DearPyGui/)
 
 [![Chat on Discord](https://img.shields.io/discord/736279277242417272?logo=discord)](https://discord.gg/tyE7Gu4) &nbsp; &nbsp; &nbsp; [![Reddit](https://img.shields.io/reddit/subreddit-subscribers/dearpygui?label=r%2Fdearpygui)](https://www.reddit.com/r/DearPyGui/)
-
-## Sponsor
-The library is available under a free and permissive license, but continued maintenance and development are a full-time endeavor which we would like to sustain and grow. In addition to maintenance and stability there are many desirable features yet to be added. Ongoing development is financially supported by users and private sponsors. If you enjoy Dear PyGui please consider becoming a [sponsor](https://github.com/hoffstadt/DearPyGui/wiki/Sponsors) or buy us a [cup of coffee](https://www.buymeacoffee.com/DearPyGui).
-
-<img src="https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors">&nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors">
 
 ### Tech stack
 Dear PyGui is built on top of <a href="https://github.com/ocornut/imgui" target="_blank">Dear ImGui</a>, including the [ImPlot](https://github.com/epezent/implot) and [imnodes](https://github.com/Nelarius/imnodes) extensions, and is fundamentally different than other Python GUI frameworks. Under the hood, it uses the immediate mode paradigm and your computer's GPU to facilitate extremely dynamic interfaces. In the same manner Dear ImGui provides a simple way to create tools for game developers, Dear PyGui provides a simple way for python developers to create quick and powerful GUIs for scripts. Dear PyGui is written in C/C++ resulting in highly performant Python applications. Dear PyGui is currently supported on the following platforms. 
@@ -169,6 +164,11 @@ Dear PyGui is built on top of <a href="https://github.com/ocornut/imgui" target=
 
 ## License
 Dear PyGui is licensed under the [MIT License](https://github.com/hoffstadt/DearPyGui/blob/master/LICENSE).
+  
+## Sponsor
+Continued maintenance and development are a full-time endeavor which we would like to sustain and grow. Ongoing development is financially supported by users and private sponsors. If you enjoy Dear PyGui please consider becoming a [sponsor](https://github.com/hoffstadt/DearPyGui/wiki/Sponsors) or buy us a [cup of coffee](https://www.buymeacoffee.com/DearPyGui).
+
+<img src="https://img.shields.io/github/sponsors/hoffstadt?label=Github%20Sponsors">&nbsp; &nbsp; &nbsp; <img src="https://img.shields.io/opencollective/sponsors/dearpygui?label=Open%20Collective%20Sponsors">
 
 ## Gallery
 
