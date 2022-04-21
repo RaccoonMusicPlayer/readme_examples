@@ -34,7 +34,6 @@
   <a href="#tech-stack">Tech stack</a> •
   <a href="#credits">Credits</a> •
   <a href="#license">License</a> •
-  <a href="#sponsor">Sponsor</a> •
   <a href="#gallery">Gallery</a>
 </p>
 
